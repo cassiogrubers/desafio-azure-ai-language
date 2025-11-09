@@ -57,7 +57,8 @@ No Language Studio, o foco foi em **Análise de Sentimento** e **Reconhecimento 
 7.  Analisei o resultado, que identificou corretamente o idioma (ex: Francês, Inglês) e a pontuação de confiança (ex: 1.0).
 
 * *Resultado da Detecção de Idioma:*
-<img width="1898" height="967" alt="03-language-studio-sentimento" src="https://github.com/user-attachments/assets/b4721711-fe75-4a88-b9b3-149eddd414d5" />
+<img width="1907" height="882" alt="02-detecção-do-idioma" src="https://github.com/user-attachments/assets/a9267823-6047-4050-a3d0-63c81eeafa09" />
+
 
 
 ---
