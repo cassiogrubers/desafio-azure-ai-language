@@ -76,4 +76,4 @@ Esta seção documenta os principais aprendizados e observações durante o labo
 
 ## 🏁 Conclusão
 
-"Este laboratório foi uma excelente oportunidade para aplicar na prática os conceitos das vídeo-aulas. A capacidade de testar modelos de IA de ponta diretamente no navegador, sem escrever código, desmistifica o uso dessas tecnologias. A documentação do processo no GitHub serviu para solidificar o aprendizado e criar um material de consulta valioso. As ferramentas de IA do Azure são poderosas e surpreendentemente acessíveis.
+Este laboratório foi uma excelente oportunidade para aplicar na prática os conceitos das vídeo-aulas. A capacidade de testar modelos de IA de ponta diretamente no navegador, sem escrever código, desmistifica o uso dessas tecnologias. A documentação do processo no GitHub serviu para solidificar o aprendizado e criar um material de consulta valioso. As ferramentas de IA do Azure são poderosas e surpreendentemente acessíveis.
