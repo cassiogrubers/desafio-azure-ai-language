@@ -67,7 +67,7 @@ No Language Studio, o foco foi em **Análise de Sentimento** e **Reconhecimento 
 
 Esta seção documenta os principais aprendizados e observações durante o laboratório.
 
-* **Facilidade de Uso (Interface Gráfica):  "Achei a interface dos estúdios muito intuitiva. Mesmo sem conhecimento prévio de código, foi possível testar funcionalidades complexas de IA rapidamente.
+* Facilidade de Uso (Interface Gráfica):  "Achei a interface dos estúdios muito intuitiva. Mesmo sem conhecimento prévio de código, foi possível testar funcionalidades complexas de IA rapidamente.
 * **Precisão dos Modelos:** "A precisão da transcrição de fala foi impressionante, reconhecendo corretamente termos técnicos. A análise de sentimento foi capaz de capturar a nuance de uma frase com sentimentos mistos, o que é um desafio comum.
 * **Descoberta Chave:** "O mais interessante foi a capacidade da Análise de Sentimento de não apenas dar uma nota geral, mas de identificar o sentimento associado a entidades específicas (mineração de opinião). Isso tem um valor comercial imenso para análise de feedback.
 * **Desafios Encontrados:**"Tive uma breve confusão inicial para entender qual tipo de recurso criar no Azure (Recurso único de Serviços Cognitivos vs. recursos separados de Fala/Linguagem) para habilitar todas as funcionalidades dos estúdios.
