@@ -35,9 +35,8 @@ Utilizei o Speech Studio para testar a funcionalidade de **Speech-to-Text (STT) 
 4.  Analisei a transcrição gerada automaticamente pela ferramenta.
 
 * *Resultado da Transcrição:*
-    
-    `[INSERIR IMAGEM DO RESULTADO DA TRANSCRIÇÃO NO SPEECH STUDIO AQUI]`
-    *(Ex: ./images/02-speech-studio-transcricao.png)*
+<img width="1905" height="836" alt="02-speech-studio-transcricao" src="https://github.com/user-attachments/assets/daf451fa-7e87-4298-aaad-e3edcc8f9952" />
+
 
 ### 3. Explorando o Azure Language Studio
 
